@@ -1,4 +1,4 @@
-## Cinema Seat Allocation / Plan Seat Allocation
+# Cinema Seat Allocation / Plan Seat Allocation
 
 ![cinema_seats_1](https://user-images.githubusercontent.com/40535130/201497855-f1227b25-232c-48af-a7e6-9384d7771df6.png)
 
